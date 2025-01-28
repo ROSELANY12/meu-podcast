@@ -1,9 +1,6 @@
 Bem vindos ao podcast A Inteligência Artificial que Transforma!
 # Projeto Podcast Gerado por I.A.s
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante Bootcamp - parceria com a [DIO](https://dio.me)
-
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
